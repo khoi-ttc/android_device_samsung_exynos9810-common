@@ -182,7 +182,7 @@ PRODUCT_PACKAGES += \
 
 # NFC
 PRODUCT_PACKAGES += \
-    android.hardware.nfc-service.sec \
+    android.hardware.nfc@1.2-service.samsung \
     com.android.nfc_extras \
     Tag
 
